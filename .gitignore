@@ -1,0 +1,4 @@
+--pychache--/
+*.py[cod]
+*.egg-info/
+.env
